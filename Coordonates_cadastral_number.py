@@ -388,5 +388,9 @@ def main():
         st.write("No data available")
         st.markdown("<hr style='border: 1px solid lightgray;'>", unsafe_allow_html=True)
 
+    st.markdown("<hr style='border: 1px solid lightgray;'>", unsafe_allow_html=True)
+    st.write("If you find this useful and would like to connect, please feel free to contact me on [LinkedIn](https://ro.linkedin.com/in/egidiu-diac).")
+    st.write("I'm very curious about how you use this data in your applications 😃")
+
 if __name__ == "__main__":
     main()
